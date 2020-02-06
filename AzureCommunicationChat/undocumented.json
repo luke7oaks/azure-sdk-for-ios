@@ -1,0 +1,292 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatClient.swift",
+      "line": 24,
+      "symbol": "AzureCommunicationChatClient",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatClient.swift",
+      "line": 25,
+      "symbol": "AzureCommunicationChatClient.continuationUrl(forRequestUrl:withContinuationToken:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatClient.swift",
+      "line": 30,
+      "symbol": "AzureCommunicationChatClient",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatClient.swift",
+      "line": 73,
+      "symbol": "AzureCommunicationChatClient.url(host:template:pathParams:queryParams:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatClient.swift",
+      "line": 120,
+      "symbol": "AzureCommunicationChatClient.azureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 18,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 18,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 18,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 18,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 18,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 18,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 18,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 18,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 18,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 18,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 18,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 18,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 18,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 18,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 18,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 18,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 19,
+      "symbol": "AzureCommunicationChatService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 20,
+      "symbol": "AzureCommunicationChatService.client",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 22,
+      "symbol": "AzureCommunicationChatService.commonOptions",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 33,
+      "symbol": "AzureCommunicationChatService.url(host:template:pathParams:queryParams:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/AzureCommunicationChatService.swift",
+      "line": 42,
+      "symbol": "AzureCommunicationChatService.request(_:context:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/Models/ChatMessage.swift",
+      "line": 18,
+      "symbol": "ChatMessage",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/Models/ChatThread.swift",
+      "line": 18,
+      "symbol": "ChatThread",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/Models/ChatThreadInfo.swift",
+      "line": 18,
+      "symbol": "ChatThreadInfo",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/Models/Enumerations.swift",
+      "line": 16,
+      "symbol": "ChatMessagePriority.normal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/Models/Enumerations.swift",
+      "line": 18,
+      "symbol": "ChatMessagePriority.high",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/Models/ErrorType.swift",
+      "line": 18,
+      "symbol": "ErrorType",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/Models/ErrorType.swift",
+      "line": 21,
+      "symbol": "ErrorType.code",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/Models/ErrorType.swift",
+      "line": 23,
+      "symbol": "ErrorType.message",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/Models/ErrorType.swift",
+      "line": 25,
+      "symbol": "ErrorType.target",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/Models/ErrorType.swift",
+      "line": 27,
+      "symbol": "ErrorType.innerErrors",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/Models/IndividualStatusResponse.swift",
+      "line": 18,
+      "symbol": "IndividualStatusResponse",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/Models/MultiStatusResponse.swift",
+      "line": 18,
+      "symbol": "MultiStatusResponse",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/Models/ReadReceiptsCollection.swift",
+      "line": 18,
+      "symbol": "ReadReceiptsCollection",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/Models/UpdateChatMessageRequest.swift",
+      "line": 18,
+      "symbol": "UpdateChatMessageRequest",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunicationChat/Source/Models/UpdateChatThreadRequest.swift",
+      "line": 18,
+      "symbol": "UpdateChatThreadRequest",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/brsiegel/source/repos/azure-sdk/ios"
+}
