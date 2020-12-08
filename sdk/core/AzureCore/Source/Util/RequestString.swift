@@ -101,6 +101,44 @@ extension Data: RequestStringConvertible {
     }
 }
 
+public struct Base64Data: Codable, RequestStringConvertible {
+
+    public var value: Data
+
+    // MARK: Initializers
+
+    public init?(string: String) {
+        if let data = string.data(using: .utf8) {
+            self.value = data
+            return
+        }
+        return nil
+    }
+
+    public init?(_ data: Data?) {
+        guard let unwrapped = data else { return nil }
+        self.value = unwrapped
+    }
+
+    // MARK: Codable
+
+    public init(from decoder: Decoder) throws {
+        let container = try decoder.singleValueContainer()
+        self.value = try container.decode(Data.self)
+    }
+
+    public func encode(to encoder: Encoder) throws {
+        var container = encoder.singleValueContainer()
+        try container.encode(requestString)
+    }
+
+    // MARK: Request String Convertible
+
+    public var requestString: String {
+        return value.base64EncodedString(trimmingEquals: true)
+    }
+}
+
 extension Array: RequestStringConvertible {
     public var requestString: String {
         var strings = [String]()

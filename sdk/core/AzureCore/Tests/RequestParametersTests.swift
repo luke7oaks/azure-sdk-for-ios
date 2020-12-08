@@ -245,4 +245,11 @@ class QueryParametersTests: XCTestCase {
         XCTAssert(query.parameters.count == 1)
         XCTAssert(query.parameters[0].value == "test,,begin!*'();:@ &=+$,/?#[]end")
     }
+
+    func test_Base64Data_RequestString() throws {
+        let data = Base64Data(string: "lorem")!
+        let expected = "bG9yZW0"
+        let actual = data.requestString
+        XCTAssert(actual == expected, "Expected: \(expected) Actual: \(actual)")
+    }
 }
